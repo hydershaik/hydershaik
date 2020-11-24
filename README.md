@@ -1,4 +1,4 @@
-### I am Hyder and I am a Software Developer 👋
+### My name is Hyder and I am a Software Developer 👋
 
 <!--
 **hydershaik/hydershaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
